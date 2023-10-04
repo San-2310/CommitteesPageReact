@@ -77,8 +77,18 @@ q {
 }
 
 .IEEE-img {
-    width: 210px !important;
+    width: 100% !important;
+    height: 90% !important;
+    margin-top: 10% !important;
 }
+
+.ieeecs-img {
+    width: 150% !important;
+    height: 50% !important;
+    margin-top: 25% !important;
+    margin-bottom: auto; 
+}
+
 .profile-img {
 	width: 180px;
 	height: 180px;
